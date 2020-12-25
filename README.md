@@ -1,1 +1,1 @@
-# php codes contain database connection and administration, free calculators, encryption and decryption, cybersecurity coding
+# php codes contain database connection including administration, free calculators
