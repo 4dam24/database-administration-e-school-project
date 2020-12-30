@@ -1,1 +1,1 @@
-# php codes contain database connection including administration, free calculators
+# php codes contain database connection, administration, e-school project also
